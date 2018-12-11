@@ -1,0 +1,258 @@
+{
+    "groups": [
+      {
+        "label": "Simple",
+        "weight": 6,
+        "groups": [
+            {
+              "label": "Dry",
+              "weight": 1,
+              "groups": [
+                {
+                  "label": "Dehiscent",
+                  "weight": 1,
+                  "groups": [
+                      {
+                        "label": "Beans",
+                        "weight": 150
+                      },
+                      {
+                        "label": "Peas",
+                        "weight": 285
+                      },
+                      {
+                        "label": "Larkspur",
+                        "weight": 189
+                      },
+                      {
+                        "label": "Columbine",
+                        "weight": 96
+                      },
+                      {
+                        "label": "Lillies",
+                        "weight": 114
+                      },
+                      {
+                        "label": "Yucca",
+                        "weight": 125
+                      },
+                      {
+                        "label": "Agave",
+                        "weight": 370
+                      },
+                      {
+                        "label": "Mustard",
+                        "weight": 127
+                      },
+                      {
+                        "label": "Plantain",
+                        "weight": 500
+                      },
+                      {
+                        "label": "Amaranth",
+                        "weight": 140
+                      },
+                      {
+                        "label": "Purslane",
+                        "weight": 84
+                      },
+                      {
+                        "label": "Poppies",
+                        "weight": 250
+                      }
+                  ]
+                },
+                {
+                  "label": "Indehiscent",
+                  "weight": 1,
+                  "groups": [
+                    {
+                      "label": "Buttercup",
+                      "weight": 436
+                    },
+                    {
+                      "label": "Dandelion",
+                      "weight": 200
+                    },
+                    {
+                      "label": "Sunflower",
+                      "weight": 120
+                    },
+                    {
+                      "label": "Beech",
+                      "weight": 322
+                    },
+                    {
+                      "label": "Chestnut",
+                      "weight": 150
+                    },
+                    {
+                      "label": "Oak",
+                      "weight": 260
+                    },
+                    {
+                      "label": "Elm",
+                      "weight": 300
+                    },
+                    {
+                      "label": "Maple",
+                      "weight": 290
+                    },
+                    {
+                      "label": "Ash",
+                      "weight": 100
+                    },
+                    {
+                      "label": "Wheat",
+                      "weight": 170
+                    },
+                    {
+                      "label": "Corn",
+                      "weight": 300
+                    },
+                    {
+                      "label": "Grass",
+                      "weight": 110
+                    },
+                    {
+                      "label": "Dill",
+                      "weight": 240
+                    },
+                    {
+                      "label": "Mallow",
+                      "weight": 230
+                    },
+                    {
+                      "label": "Wild Carrot",
+                      "weight": 320
+                    }
+                ]
+
+                }
+              ]
+            },
+            {
+              "label": "Fleshy",
+              "weight": 1,
+              "groups": [
+                {
+                  "label": "Drupe",
+                  "weight": 1,
+                  "groups": [
+                    {
+                      "label": "Cherry",
+                      "weight": 110
+                    },
+                    {
+                      "label": "Coconut",
+                      "weight": 80
+                    },
+                    {
+                      "label": "Walnut",
+                      "weight": 230
+                    },
+                    {
+                      "label": "Hickory",
+                      "weight": 220
+                    }
+                  ]
+                },
+                {
+                  "label": "Berry",
+                  "weight": 1,
+                  "groups": [
+                    {
+                      "label": "Grape",
+                      "weight": 310
+                    },
+                    {
+                      "label": "Banana",
+                      "weight": 500
+                    },
+                    {
+                      "label": "Gooseberry",
+                      "weight": 100
+                    },
+                    {
+                        "label": "Hesperidium",
+                        "weight": 1,
+                        "groups": [
+                          {
+                            "label": "Citrus",
+                            "weight": 430
+                          }
+                        ]
+                    },
+                    {
+                      "label": "Pepo",
+                      "weight": 1,
+                      "groups": [
+                        {
+                          "label": "Watermelon",
+                          "weight": 270
+                        },
+                        {
+                          "label": "Gourd",
+                          "weight": 150
+                        },
+                        {
+                          "label": "Squash",
+                          "weight": 350
+                        }
+                      ]
+                    }
+                  ]
+                },
+                {
+                  "label": "Pome",
+                  "weight": 1,
+                  "groups": [
+                    {
+                      "label": "Apple",
+                      "weight": 230
+                    },
+                    {
+                      "label": "Pear",
+                      "weight": 100
+                    },
+                    {
+                      "label": "Mountain Ash",
+                      "weight": 220
+                    }
+                  ]
+                  
+                }
+              ]
+            }
+          ]
+      },
+      {
+        "label": "Aggregate",
+        "weight": 1,
+        "groups": [
+          {
+            "label": "Raspberry",
+            "weight": 150
+          },
+          {
+            "label": "Strawberry",
+            "weight": 525
+          }
+        ]
+      },
+      {
+        "label": "Multiple",
+        "weight": 1,
+        "groups": [
+            {
+              "label": "Mulberry",
+              "weight": 200
+            },
+            {
+              "label": "Fig",
+              "weight": 230
+            }
+          ]
+      }
+    ]
+  }
